@@ -1,6 +1,6 @@
 # ESO 207 (2023-24 I SEM.)
 
-This repository contains my assignments submissions of course ESO207A(2023-24 I SEM.) along with exam papers and extra practice problems
+This repository contains my assignments submissions of course ESO207A(2023-24 I SEM.) along with [exam papers](https://github.com/pureEye21/ESO-207/tree/master/Exam%20Papers) and [extra practice problems](https://github.com/pureEye21/ESO-207/tree/master/Extra%20Practice%20Problems)
 
 There were two types of assignments (graded)
 
